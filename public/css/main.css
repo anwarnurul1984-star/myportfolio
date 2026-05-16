@@ -182,6 +182,14 @@ body {
   font-size: 1.8rem;
 }
 
+.card-logo {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 50%;
+  padding: 10px;
+}
+
 .card-hs .card-icon {
   background: #e3f0f5;
   color: #1e5f74;
@@ -305,6 +313,16 @@ body {
   font-size: 2.5rem;
   margin-bottom: 0.75rem;
   opacity: 0.9;
+}
+
+.hero-logo {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+  margin-bottom: 1rem;
+  border-radius: 12px;
+  background: rgba(255,255,255,0.15);
+  padding: 0.5rem;
 }
 
 .page-hero h1 {
