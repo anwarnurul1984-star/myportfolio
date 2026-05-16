@@ -191,8 +191,8 @@ body {
 }
 
 .card-hs .card-icon {
-  background: #e3f0f5;
-  color: #1e5f74;
+  background: #e6f0e5;
+  color: #023101;
 }
 
 .card-kurnia .card-icon {
@@ -247,11 +247,11 @@ body {
 }
 
 .btn-hs {
-  background: #1e5f74;
+  background: #fc0301;
 }
 
 .btn-hs:hover {
-  background: #164b5c;
+  background: #c00200;
 }
 
 .btn-kurnia {
