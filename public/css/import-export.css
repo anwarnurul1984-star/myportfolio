@@ -1,0 +1,20 @@
+.ie-hero {
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: #fff;
+}
+
+.ie-hero .hero-icon {
+  color: #4fc3f7;
+}
+
+.content-card > i {
+  color: #1e5f74;
+}
+
+.btn-hs {
+  background: #1e5f74;
+}
+
+.btn-hs:hover {
+  background: #164b5c;
+}

@@ -1,0 +1,18 @@
+{
+  "company": "Kurnia Holiday Travels",
+  "tagline": "Discover the World with Us",
+  "destinations": [
+    "UAE",
+    "China",
+    "India",
+    "Thailand",
+    "Cambodia"
+  ],
+  "services": [
+    "Tour Packages",
+    "Flight Ticketing",
+    "Visa Assistance",
+    "Hotel Bookings",
+    "Guided Itineraries"
+  ]
+}
