@@ -196,8 +196,8 @@ body {
 }
 
 .card-kurnia .card-icon {
-  background: #fef0e6;
-  color: #d4763a;
+  background: #fce4ec;
+  color: #e91e63;
 }
 
 .card h2 {
@@ -255,11 +255,11 @@ body {
 }
 
 .btn-kurnia {
-  background: #d4763a;
+  background: #e91e63;
 }
 
 .btn-kurnia:hover {
-  background: #b8652e;
+  background: #c2185b;
 }
 
 /* ─── Destinations Preview ─── */
@@ -297,7 +297,7 @@ body {
 }
 
 .destination-tags i {
-  color: #d4763a;
+  color: #e91e63;
 }
 
 /* ─── Page Hero (inner pages) ─── */

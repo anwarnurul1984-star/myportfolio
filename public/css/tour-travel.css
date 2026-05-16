@@ -1,20 +1,20 @@
 .tt-hero {
-  background: linear-gradient(135deg, #1a2a6c, #b21f1f, #fdbb2d);
+  background: linear-gradient(135deg, #1a2a6c, #6c1a6c, #e91e63);
   color: #fff;
 }
 
 .tt-hero .hero-icon {
-  color: #ffe082;
+  color: #f48fb1;
 }
 
 .content-card > i {
-  color: #d4763a;
+  color: #e91e63;
 }
 
 .btn-kurnia {
-  background: #d4763a;
+  background: #e91e63;
 }
 
 .btn-kurnia:hover {
-  background: #b8652e;
+  background: #c2185b;
 }
