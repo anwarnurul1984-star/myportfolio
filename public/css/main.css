@@ -433,6 +433,20 @@ body {
   width: 14px;
 }
 
+.footer-social {
+  margin-bottom: 0.75rem;
+}
+
+.footer-social a {
+  color: #b0b8c8;
+  font-size: 1.4rem;
+  transition: color 0.2s;
+}
+
+.footer-social a:hover {
+  color: #1877f2;
+}
+
 /* ─── Responsive ─── */
 
 @media (max-width: 700px) {
